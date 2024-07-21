@@ -1,4 +1,4 @@
-# 데이터분석 심화과정
+# 파이썬 데이터분석 심화과정
 
 - [Advanced Python](https://colab.research.google.com/github/ysbrianlee/July/blob/main/Advanced%20Python.ipynb)
 - [Data Indexing](https://colab.research.google.com/github/ysbrianlee/July/blob/main/Data-Indexing-and-Selection.ipynb)
