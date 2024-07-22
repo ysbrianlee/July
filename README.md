@@ -1,5 +1,6 @@
 # 파이썬 데이터분석 심화과정
-
+ ## RandomFrest, Gradient Boosting Machine사례는 마이드라이브 공유폴더에 zip파일로 업로드되어 있음.
+ 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ysbrianlee/July/)
 
 - [Advanced Python](https://colab.research.google.com/github/ysbrianlee/July/blob/main/Advanced%20Python.ipynb)
