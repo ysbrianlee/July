@@ -14,3 +14,4 @@
 - [Numpy](https://colab.research.google.com/github/ysbrianlee/July/blob/main/numpy.ipynb)
 - [time-serial](https://colab.research.google.com/github/ysbrianlee/July/blob/main/time_serial.ipynb)
 - [Machine-Learning](https://colab.research.google.com/github/ysbrianlee/July/blob/main/Machine%20learning.ipynb)
+- [Scikit-Learning](https://colab.research.google.com/github/ysbrianlee/July/blob/main/scikit-learn.ipynb)
