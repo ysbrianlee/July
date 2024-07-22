@@ -4,7 +4,7 @@
 
 - [Advanced Python](https://colab.research.google.com/github/ysbrianlee/July/blob/main/Advanced%20Python.ipynb)
 - [Data Indexing](https://colab.research.google.com/github/ysbrianlee/July/blob/main/Data-Indexing-and-Selection.ipynb)
-- [ML#1](https://colab.research.google.com/github/ysbrianlee/July/blob/main/ML%231.ipynb)
+- [ML_1](https://colab.research.google.com/github/ysbrianlee/July/blob/main/ML_1.ipynb)
 - [ML#2](https://colab.research.google.com/github/ysbrianlee/July/blob/main/ML%232.ipynb)
 - [Pivit-Tables](https://colab.research.google.com/github/ysbrianlee/July/blob/main/Pivot-Tables.ipynb)
 - [exercises](https://colab.research.google.com/github/ysbrianlee/July/blob/main/exercises.ipynb)
